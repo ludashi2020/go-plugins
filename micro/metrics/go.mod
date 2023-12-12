@@ -1,9 +1,9 @@
-module github.com/go-micro/plugins/v2/micro/metrics
+module github.com/ludashi2020/go-plugins/micro/metrics
 
 go 1.17
 
 require (
-	github.com/go-micro/plugins/v2/micro/metrics/prometheus v0.0.0-00010101000000-000000000000
+	github.com/ludashi2020/go-plugins/micro/metrics/prometheus v0.0.0-00010101000000-000000000000
 	github.com/micro/cli/v2 v2.1.2
 	github.com/micro/go-micro/v2 v2.9.1
 	github.com/micro/micro/v2 v2.9.3
@@ -27,6 +27,6 @@ require (
 )
 
 replace (
-	github.com/go-micro/plugins/v2/micro/metrics/prometheus => ./prometheus
+	github.com/ludashi2020/go-plugins/micro/metrics/prometheus => ./prometheus
 	google.golang.org/grpc => google.golang.org/grpc v1.26.0
 )

@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/proxy/http
+module github.com/ludashi2020/go-plugins/proxy/http
 
 go 1.17
 

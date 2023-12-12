@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/store/memcached
+module github.com/ludashi2020/go-plugins/store/memcached
 
 go 1.17
 

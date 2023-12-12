@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/trace/uuid
+module github.com/ludashi2020/go-plugins/micro/trace/uuid
 
 go 1.17
 

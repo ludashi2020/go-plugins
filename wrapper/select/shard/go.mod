@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/wrapper/select/shard
+module github.com/ludashi2020/go-plugins/wrapper/select/shard
 
 go 1.17
 

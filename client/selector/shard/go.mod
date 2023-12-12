@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/client/selector/shard
+module github.com/ludashi2020/go-plugins/client/selector/shard
 
 go 1.17
 

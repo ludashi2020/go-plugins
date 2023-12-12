@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/wrapper/monitoring/prometheus
+module github.com/ludashi2020/go-plugins/wrapper/monitoring/prometheus
 
 go 1.17
 

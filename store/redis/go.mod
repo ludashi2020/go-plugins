@@ -1,9 +1,9 @@
-module github.com/go-micro/plugins/v2/store/redis
+module github.com/ludashi2020/go-plugins/store/redis
 
 go 1.17
 
 require (
-	github.com/go-micro/plugins/v2/broker/redis v0.0.0-00010101000000-000000000000
+	github.com/ludashi2020/go-plugins/broker/redis v0.0.0-00010101000000-000000000000
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/micro/go-micro/v2 v2.9.1
 )
@@ -74,6 +74,6 @@ require (
 )
 
 replace (
-	github.com/go-micro/plugins/v2/broker/redis => ../../broker/redis
+	github.com/ludashi2020/go-plugins/broker/redis => ../../broker/redis
 	google.golang.org/grpc => google.golang.org/grpc v1.26.0
 )

@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	rabbitmq "github.com/go-micro/plugins/v2/broker/rabbitmq"
+	rabbitmq "github.com/ludashi2020/go-plugins/broker/rabbitmq"
 	micro "github.com/micro/go-micro/v2"
 	broker "github.com/micro/go-micro/v2/broker"
 	server "github.com/micro/go-micro/v2/server"

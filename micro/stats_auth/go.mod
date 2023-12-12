@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/stats_auth
+module github.com/ludashi2020/go-plugins/micro/stats_auth
 
 go 1.17
 

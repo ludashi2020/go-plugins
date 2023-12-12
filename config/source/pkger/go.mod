@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/config/source/pkger
+module github.com/ludashi2020/go-plugins/config/source/pkger
 
 go 1.17
 

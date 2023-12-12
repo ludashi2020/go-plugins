@@ -1,10 +1,10 @@
-module github.com/go-micro/plugins/v2/broker/segmentio
+module github.com/ludashi2020/go-plugins/broker/segmentio
 
 go 1.17
 
 require (
-	github.com/go-micro/plugins/v2/broker/kafka v0.0.0
-	github.com/go-micro/plugins/v2/codec/segmentio v0.0.0
+	github.com/ludashi2020/go-plugins/broker/kafka v0.0.0
+	github.com/ludashi2020/go-plugins/codec/segmentio v0.0.0
 	github.com/google/uuid v1.3.0
 	github.com/micro/go-micro/v2 v2.9.1
 	github.com/segmentio/kafka-go v0.4.29
@@ -90,8 +90,8 @@ require (
 )
 
 replace (
-	github.com/go-micro/plugins/v2/broker/kafka => ../kafka
-	github.com/go-micro/plugins/v2/codec/segmentio => ../../codec/segmentio
+	github.com/ludashi2020/go-plugins/broker/kafka => ../kafka
+	github.com/ludashi2020/go-plugins/codec/segmentio => ../../codec/segmentio
 )
 
 replace google.golang.org/grpc => google.golang.org/grpc v1.26.0

@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/registry/etcdv3
+module github.com/ludashi2020/go-plugins/registry/etcdv3
 
 go 1.17
 

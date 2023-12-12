@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/client/http
+module github.com/ludashi2020/go-plugins/client/http
 
 go 1.17
 

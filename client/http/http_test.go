@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/go-micro/plugins/v2/client/http/test"
+	"github.com/ludashi2020/go-plugins/client/http/test"
 	"github.com/micro/go-micro/v2/client"
 	"github.com/micro/go-micro/v2/client/selector"
 	"github.com/micro/go-micro/v2/registry"

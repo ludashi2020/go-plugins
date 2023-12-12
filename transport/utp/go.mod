@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/transport/utp
+module github.com/ludashi2020/go-plugins/transport/utp
 
 go 1.17
 

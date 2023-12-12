@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/auth
+module github.com/ludashi2020/go-plugins/micro/auth
 
 go 1.17
 

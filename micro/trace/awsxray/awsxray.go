@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/asim/go-awsxray"
-	xray "github.com/go-micro/plugins/v2/wrapper/trace/awsxray"
+	xray "github.com/ludashi2020/go-plugins/wrapper/trace/awsxray"
 	"github.com/micro/cli/v2"
 	"github.com/micro/go-micro/v2/client"
 	"github.com/micro/micro/v2/plugin"

@@ -3,7 +3,7 @@ package redis
 import (
 	"fmt"
 
-	"github.com/go-micro/plugins/v2/broker/redis"
+	"github.com/ludashi2020/go-plugins/broker/redis"
 	"github.com/go-redis/redis/v7"
 	log "github.com/micro/go-micro/v2/logger"
 	"github.com/micro/go-micro/v2/store"

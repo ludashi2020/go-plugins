@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/metadata
+module github.com/ludashi2020/go-plugins/micro/metadata
 
 go 1.17
 

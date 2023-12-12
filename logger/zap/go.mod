@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/logger/zap
+module github.com/ludashi2020/go-plugins/logger/zap
 
 go 1.17
 

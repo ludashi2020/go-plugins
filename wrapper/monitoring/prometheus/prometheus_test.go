@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	promwrapper "github.com/go-micro/plugins/v2/wrapper/monitoring/prometheus"
+	promwrapper "github.com/ludashi2020/go-plugins/wrapper/monitoring/prometheus"
 	"github.com/micro/go-micro/v2/broker"
 	bmemory "github.com/micro/go-micro/v2/broker/memory"
 	"github.com/micro/go-micro/v2/client"

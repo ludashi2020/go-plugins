@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/wrapper/service
+module github.com/ludashi2020/go-plugins/wrapper/service
 
 go 1.17
 

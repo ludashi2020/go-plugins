@@ -3,7 +3,7 @@ package shard_test
 import (
 	"testing"
 
-	"github.com/go-micro/plugins/v2/client/selector/shard"
+	"github.com/ludashi2020/go-plugins/client/selector/shard"
 	"github.com/micro/go-micro/v2/client"
 	"github.com/micro/go-micro/v2/client/selector"
 	"github.com/micro/go-micro/v2/registry"

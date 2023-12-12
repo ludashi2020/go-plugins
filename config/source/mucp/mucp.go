@@ -3,7 +3,7 @@ package mucp
 import (
 	"context"
 
-	proto "github.com/go-micro/plugins/v2/config/source/mucp/proto"
+	proto "github.com/ludashi2020/go-plugins/config/source/mucp/proto"
 	"github.com/micro/go-micro/v2/config/cmd"
 	"github.com/micro/go-micro/v2/config/source"
 	log "github.com/micro/go-micro/v2/logger"

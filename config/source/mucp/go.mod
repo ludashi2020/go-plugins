@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/config/source/mucp
+module github.com/ludashi2020/go-plugins/config/source/mucp
 
 go 1.17
 

@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/wrapper/trace/opentracing
+module github.com/ludashi2020/go-plugins/wrapper/trace/opentracing
 
 go 1.17
 

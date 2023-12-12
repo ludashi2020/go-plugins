@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/client/selector/static
+module github.com/ludashi2020/go-plugins/client/selector/static
 
 go 1.17
 

@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/config/encoder/cue
+module github.com/ludashi2020/go-plugins/config/encoder/cue
 
 go 1.17
 

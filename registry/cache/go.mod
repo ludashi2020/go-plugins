@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/registry/cache
+module github.com/ludashi2020/go-plugins/registry/cache
 
 go 1.17
 

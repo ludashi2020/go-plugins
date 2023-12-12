@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/metrics/prometheus
+module github.com/ludashi2020/go-plugins/micro/metrics/prometheus
 
 go 1.17
 

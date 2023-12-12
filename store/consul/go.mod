@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/store/consul
+module github.com/ludashi2020/go-plugins/store/consul
 
 go 1.17
 

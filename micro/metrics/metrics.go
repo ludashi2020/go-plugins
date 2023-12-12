@@ -9,7 +9,7 @@ import (
 	"github.com/micro/micro/v2/plugin"
 
 	// prometheus metrics
-	"github.com/go-micro/plugins/v2/micro/metrics/prometheus"
+	"github.com/ludashi2020/go-plugins/micro/metrics/prometheus"
 )
 
 type Metrics struct {

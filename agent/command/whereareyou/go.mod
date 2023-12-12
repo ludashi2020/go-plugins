@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/agent/command/whereareyou
+module github.com/ludashi2020/go-plugins/agent/command/whereareyou
 
 go 1.17
 

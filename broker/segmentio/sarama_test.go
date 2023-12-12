@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"testing"
 
-	sarama "github.com/go-micro/plugins/v2/broker/kafka"
-	segjson "github.com/go-micro/plugins/v2/codec/segmentio"
+	sarama "github.com/ludashi2020/go-plugins/broker/kafka"
+	segjson "github.com/ludashi2020/go-plugins/codec/segmentio"
 	"github.com/micro/go-micro/v2/broker"
 )
 

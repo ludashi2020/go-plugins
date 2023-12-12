@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/ip_whitelist
+module github.com/ludashi2020/go-plugins/micro/ip_whitelist
 
 go 1.17
 

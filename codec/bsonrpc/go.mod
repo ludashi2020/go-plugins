@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/codec/bsonrpc
+module github.com/ludashi2020/go-plugins/codec/bsonrpc
 
 go 1.17
 

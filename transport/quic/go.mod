@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/transport/quic
+module github.com/ludashi2020/go-plugins/transport/quic
 
 go 1.17
 

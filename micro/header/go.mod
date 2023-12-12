@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/header
+module github.com/ludashi2020/go-plugins/micro/header
 
 go 1.17
 

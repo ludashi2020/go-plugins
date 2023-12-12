@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/wrapper/ratelimiter/ratelimit
+module github.com/ludashi2020/go-plugins/wrapper/ratelimiter/ratelimit
 
 go 1.17
 

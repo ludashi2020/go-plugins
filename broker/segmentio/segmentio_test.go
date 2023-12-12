@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"testing"
 
-	segmentio "github.com/go-micro/plugins/v2/broker/segmentio"
-	segjson "github.com/go-micro/plugins/v2/codec/segmentio"
+	segmentio "github.com/ludashi2020/go-plugins/broker/segmentio"
+	segjson "github.com/ludashi2020/go-plugins/codec/segmentio"
 	"github.com/micro/go-micro/v2/broker"
 )
 

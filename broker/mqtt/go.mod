@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/broker/mqtt
+module github.com/ludashi2020/go-plugins/broker/mqtt
 
 go 1.17
 

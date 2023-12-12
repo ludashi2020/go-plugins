@@ -10,7 +10,7 @@ Create a plugin file
 package main
 
 import (
-	"github.com/go-micro/plugins/v2/micro/metadata"
+	"github.com/ludashi2020/go-plugins/micro/metadata"
 	"github.com/micro/micro/plugin"
 )
 

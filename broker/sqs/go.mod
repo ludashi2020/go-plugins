@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/broker/sqs
+module github.com/ludashi2020/go-plugins/broker/sqs
 
 go 1.17
 

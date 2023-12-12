@@ -10,7 +10,7 @@ import (
     "github.com/micro/go-micro/v2"
     "github.com/micro/go-micro/client"
     "github.com/micro/go-micro/server"
-    "github.com/go-micro/plugins/v2/codec/jsonrpc2"
+    "github.com/ludashi2020/go-plugins/codec/jsonrpc2"
 )
 
 func main() {

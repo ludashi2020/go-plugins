@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/disable_rpc
+module github.com/ludashi2020/go-plugins/micro/disable_rpc
 
 go 1.17
 

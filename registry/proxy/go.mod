@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/registry/proxy
+module github.com/ludashi2020/go-plugins/registry/proxy
 
 go 1.17
 

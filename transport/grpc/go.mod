@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/transport/grpc
+module github.com/ludashi2020/go-plugins/transport/grpc
 
 go 1.17
 

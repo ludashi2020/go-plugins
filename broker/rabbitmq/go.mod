@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/broker/rabbitmq
+module github.com/ludashi2020/go-plugins/broker/rabbitmq
 
 go 1.17
 

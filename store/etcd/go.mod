@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/store/etcd
+module github.com/ludashi2020/go-plugins/store/etcd
 
 go 1.17
 

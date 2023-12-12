@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/index
+module github.com/ludashi2020/go-plugins/micro/index
 
 go 1.17
 

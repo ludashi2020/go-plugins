@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/whitelist
+module github.com/ludashi2020/go-plugins/micro/whitelist
 
 go 1.17
 

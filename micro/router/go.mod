@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/micro/router
+module github.com/ludashi2020/go-plugins/micro/router
 
 go 1.17
 

@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/server/http
+module github.com/ludashi2020/go-plugins/server/http
 
 go 1.17
 

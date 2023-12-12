@@ -1,4 +1,4 @@
-module github.com/go-micro/plugins/v2/wrapper/trace/datadog
+module github.com/ludashi2020/go-plugins/wrapper/trace/datadog
 
 go 1.17
 

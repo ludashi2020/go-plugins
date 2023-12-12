@@ -1,11 +1,11 @@
-module github.com/go-micro/plugins/v2/micro/trace/awsxray
+module github.com/ludashi2020/go-plugins/micro/trace/awsxray
 
 go 1.17
 
 require (
 	github.com/asim/go-awsxray v0.0.0-20161209120537-0d8a60b6e205
 	github.com/aws/aws-sdk-go v1.43.12
-	github.com/go-micro/plugins/v2/wrapper/trace/awsxray v0.0.0
+	github.com/ludashi2020/go-plugins/wrapper/trace/awsxray v0.0.0
 	github.com/micro/cli/v2 v2.1.2
 	github.com/micro/go-micro/v2 v2.9.1
 	github.com/micro/micro/v2 v2.9.3
@@ -28,6 +28,6 @@ require (
 	google.golang.org/protobuf v1.27.1 // indirect
 )
 
-replace github.com/go-micro/plugins/v2/wrapper/trace/awsxray => ../../../wrapper/trace/awsxray
+replace github.com/ludashi2020/go-plugins/wrapper/trace/awsxray => ../../../wrapper/trace/awsxray
 
 replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
